@@ -1,0 +1,31 @@
+artifact_path: /home/runner/work/Workflow-CI/Workflow-CI/MLProject/mlruns/1/models/m-a07d42907bff4d1294f148d1d12e2690/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.7
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.8.0
+is_signature_from_type_hint: false
+mlflow_version: 3.7.0
+model_id: m-a07d42907bff4d1294f148d1d12e2690
+model_size_bytes: 264477
+model_uuid: m-a07d42907bff4d1294f148d1d12e2690
+prompts: null
+run_id: c75ea572a93d418391e02ea53b642870
+signature:
+  inputs: '[{"type": "double", "name": "Temperature", "required": true}, {"type":
+    "double", "name": "Humidity", "required": true}, {"type": "double", "name": "Wind_Speed",
+    "required": true}, {"type": "double", "name": "Cloud_Cover", "required": true},
+    {"type": "double", "name": "Pressure", "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "int64", "shape": [-1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-12-17 10:40:32.198475'
