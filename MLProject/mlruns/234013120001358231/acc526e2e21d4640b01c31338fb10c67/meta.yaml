@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLProject/mlruns/234013120001358231/acc526e2e21d4640b01c31338fb10c67/artifacts
+end_time: 1765969794961
+entry_point_name: ''
+experiment_id: '234013120001358231'
+lifecycle_stage: active
+run_id: acc526e2e21d4640b01c31338fb10c67
+run_name: adaptable-tern-577
+run_uuid: acc526e2e21d4640b01c31338fb10c67
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765969786173
+status: 3
+tags: []
+user_id: runner
