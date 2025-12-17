@@ -33,7 +33,7 @@ jobs:
     - name: Run MLflow Project
       run: |
         cd MLProject
-        mlflow run . --env-manager=local
+        mlflow run . --env-manager=local --experiment-name "Weather Forecast CI"
 
     # menyimpan artefak ke repository gitHub
     - name: Commit and Push MLflow Runs to Repo

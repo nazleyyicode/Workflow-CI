@@ -9,9 +9,6 @@ import os
 import warnings
 warnings.filterwarnings('ignore', category=FutureWarning)
 
-# membuat eksperimen MLflow baru
-mlflow.set_experiment("Weather Forecast CI")
-
 # load dataset preprocessing
 df = pd.read_csv("namadataset_preprocessing/weather_forecast_preprocessing.csv")
 
