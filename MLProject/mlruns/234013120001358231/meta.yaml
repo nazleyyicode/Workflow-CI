@@ -1,0 +1,6 @@
+artifact_location: file:///home/runner/work/Workflow-CI/Workflow-CI/MLProject/mlruns/234013120001358231
+creation_time: 1765969786132
+experiment_id: '234013120001358231'
+last_update_time: 1765969786132
+lifecycle_stage: active
+name: Weather Forecast CI

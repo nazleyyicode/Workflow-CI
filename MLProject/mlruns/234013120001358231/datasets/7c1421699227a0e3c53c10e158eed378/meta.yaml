@@ -1,0 +1,10 @@
+digest: d157579f
+name: dataset
+profile: '{"num_rows": 500, "num_elements": 2500}'
+schema: '{"mlflow_colspec": [{"type": "double", "name": "Temperature", "required":
+  true}, {"type": "double", "name": "Humidity", "required": true}, {"type": "double",
+  "name": "Wind_Speed", "required": true}, {"type": "double", "name": "Cloud_Cover",
+  "required": true}, {"type": "double", "name": "Pressure", "required": true}]}'
+source: '{"tags": {"mlflow.user": "runner", "mlflow.source.name": "modelling.py",
+  "mlflow.source.type": "LOCAL", "mlflow.source.git.commit": "0e5706e52bde94a32770fa3d2c0ac8a79aa28ba5"}}'
+source_type: code
