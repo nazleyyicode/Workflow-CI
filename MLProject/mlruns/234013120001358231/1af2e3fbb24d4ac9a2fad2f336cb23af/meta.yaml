@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLProject/mlruns/234013120001358231/1af2e3fbb24d4ac9a2fad2f336cb23af/artifacts
+end_time: 1765971041534
+entry_point_name: ''
+experiment_id: '234013120001358231'
+lifecycle_stage: active
+run_id: 1af2e3fbb24d4ac9a2fad2f336cb23af
+run_name: gregarious-wren-131
+run_uuid: 1af2e3fbb24d4ac9a2fad2f336cb23af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765971033382
+status: 3
+tags: []
+user_id: runner
